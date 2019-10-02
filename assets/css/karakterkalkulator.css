@@ -1,0 +1,16 @@
+.row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#fullwidth{
+    width: 100%;
+}
+
+form{
+    margin-bottom: 30px;
+}
+
+table{
+    margin-bottom: 30px;
+}
